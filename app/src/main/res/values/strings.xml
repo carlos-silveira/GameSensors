@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameSensors</string>
+    <string name="to_morse">To Morse</string>
+    <string name="to_alpha">To Alpha</string>
+</resources>
